@@ -1,0 +1,61 @@
+#a{
+    text-align: center;
+    background-size: cover;
+    padding:5px 2px ;
+    background-image: url(del.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10%;
+}
+h1 {
+    color: red;
+    text-align: center;
+    font: italic 400% fantasy;
+}
+a{
+    font-size: 25px;
+    text-decoration: none;
+}
+h2{
+   font-size: 40px;
+   color: blue;
+   text-align: center;
+   color: white;
+   font-family: Courier New, Courier, monospace;
+}
+#b{
+    line-height: 200%;
+    font-family: "Source Sans Pro";
+}
+#c{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 2px;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    color: black transparent;
+}
+h3{
+    color: firebrick;
+    font-size: 30px;
+}
+#d{
+    line-height: 1px;
+    text-align: center;
+}
+h4{
+    font-size: 30px;
+    line-height: 0px;
+}
+#e{
+    text-align: center;    
+}
+#f{
+    background-color: firebrick;
+    padding: 3%;
+    line-height: 40px;;
+}
